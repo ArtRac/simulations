@@ -1,13 +1,16 @@
-# simulations
+# Simulations
 
 ```mermaid
 mindmap
     )Simulations(
         (Monte Carlo)
-                Exercises
-                    Monty Hall problem
+            Spark
+            Exercises
+                Monty Hall problem
             PyMC
+                Logika Beyowska
         (Discrete Event Simulation)
             Salabim
-        Spark
+        Physics Simulations
+            PyMunk
 ```
