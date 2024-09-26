@@ -3,7 +3,8 @@
 ```mermaid
 mindmap
     )Simulations(
-        (Monte Carlo)
+        
+        (Stochastic Simulations Monte Carlo)
             Problems
                 Monty Hall problem
             PyMC
